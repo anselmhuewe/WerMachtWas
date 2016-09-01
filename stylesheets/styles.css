@@ -1,0 +1,48 @@
+.navbar-brand{
+  float:left;
+  height:50px;
+  padding:4px;
+  font-size:18px;
+  line-height:20px;
+}
+
+#verwalten{
+  background:url(../../assets/img/hintergrund_zuordnen.jpg);
+  background-size:cover;
+  padding-left:80px;
+  padding-right:80px;
+  border-radius:20px;
+}
+
+#teuer{
+  background:url(../../assets/img/Hintergrund_Geld.jpg);
+  background-size:cover;
+  padding-left:80px;
+  padding-right:80px;
+  border-radius:20px;
+}
+
+body{
+  padding:10px;
+}
+
+body{
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:18px;
+  line-height:1.42857143;
+  color:#333;
+  background-color:#fff;
+}
+
+p{
+  background-color:rgba(255,255,255,0.7);
+  padding:5px;
+  border-radius:10px;
+}
+
+h1.text-center{
+  background-color:rgba(255,255,255,0.7);
+  padding:5px;
+  border-radius:10px;
+}
+
